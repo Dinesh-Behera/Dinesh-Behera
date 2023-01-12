@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Behera</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right"alt="coding"width="450"src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right"alt="coding"width="450"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMefBCJEQC8y3kYH_FclrV1oEKDn6w3oWgawDWXIh-62HOneTe0s5U7O9RALKG89v5mI8&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-behera&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-behera" /> </p>
 
