@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-behera&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-behera" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS**
+- 🌱 I’m currently learning **HTML,CSS & JavaScript.
 
 - 📫 How to reach me **dineshbehera161@gmail.com**
 
